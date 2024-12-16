@@ -1,0 +1,28 @@
+{
+    "expo": {
+      "name": "Happen",
+      "slug": "Happen",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "icon": "./assets/icon.png",
+      "splash": {
+        "image": "./assets/splash.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffffff"
+      },
+      "platforms": ["ios", "android"],
+      "ios": {
+        "bundleIdentifier": "com.exemplo.meuapp",
+        "buildNumber": "1"
+      },
+      "android": {
+        "package": "com.exemplo.meuapp",
+        "versionCode": 1
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "description": "Este é o meu aplicativo!"
+    }
+  }
+  
